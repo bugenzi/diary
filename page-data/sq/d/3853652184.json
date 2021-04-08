@@ -1,1 +1,1 @@
-{"data":{"allContentfulBlogpost":{"edges":[{"node":{"title":"What is docker part 1","slug":"docker-beginner","publishedDate":"3 days ago"}},{"node":{"title":"Using rust  ","slug":"rust-tutorial","publishedDate":"17 days ago"}}]}}}
+{"data":{"allContentfulBlogpost":{"edges":[{"node":{"title":"Basics of Kubernetes","slug":"basicKube","publishedDate":"19 hours ago"}},{"node":{"title":"Basics of docker","slug":"docker-beginner","publishedDate":"22 days ago"}},{"node":{"title":"Using rust  ","slug":"rust-tutorial","publishedDate":"a month ago"}}]}}}
